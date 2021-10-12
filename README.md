@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
  <h2 align="center"> Github Status </h2>
 
-<div align="justify"> 
+<div display="flex" justify-content="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirans2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=50" />
     </a>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <h2 align="center"> Languages and Tools: </h2>
-<div>
+<div display="flex" justify-content="center"> 
   <a href="https://www.arduino.cc/" target="_blank"> 
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
  </a>
@@ -35,5 +35,11 @@ Here are some ideas to get you started:
  </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+ </a>
+ <a href="https://flutter.dev" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+ </a> 
+ <a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  </a>
  </div>
