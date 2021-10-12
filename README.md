@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirans2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=50" />
+      <br>
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirans2002&theme=react&line_height=50"/>
