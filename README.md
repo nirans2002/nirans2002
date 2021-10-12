@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
  <h2 align="center"> Github Status </h2>
 
-<div align="center"> 
+<div align="justify"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirans2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=50" />
     </a>
@@ -24,3 +24,16 @@ Here are some ideas to get you started:
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirans2002&theme=react&line_height=50"/>
     </a>
 </div>
+<br>
+<h2 align="center"> Languages and Tools: </h2>
+<div>
+  <a href="https://www.arduino.cc/" target="_blank"> 
+   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+ </a>
+ <a href="https://www.cprogramming.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+ </a>
+ </div>
