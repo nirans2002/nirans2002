@@ -7,15 +7,20 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter, Web dev
+- 🌱 I’m currently learning everything😉
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML,Python,C
 - 📫 How to reach me: 'loading...'
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on -->
 
-## &#x1f4c8; GitHub Stats
+ <h2 align="center"> Github Status </h2>
 
-<a href="https://github.com/nirans2002/nirans2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirans2002&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirans2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=50" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirans2002&theme=react&line_height=50"/>
+    </a>
+</div
