@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<nirans2002>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<nirans2002>&theme=<THEME_NAME>" />
