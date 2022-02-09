@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything😉
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Reactjs, ROS, Robotics,...
-- 📫 How to reach me: (www.niransnarayanan.me)[https://www.niransnarayanan.me]
+- 📫 How to reach me: www.niransnarayanan.me
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on -->
 
