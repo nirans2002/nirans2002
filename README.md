@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning everything😉
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about HTML,Python,C
-- 📫 How to reach me: 'loading...'
+- 💬 Ask me about Reactjs, ROS, Robotics,...
+- 📫 How to reach me: (www.niransnarayanan.me)[https://www.niransnarayanan.me]
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on -->
 
