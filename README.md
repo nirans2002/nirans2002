@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on Robotics and Flutter
 - 🌱 I’m currently learning everything😉
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Robotics,ROS2,Flutter...
