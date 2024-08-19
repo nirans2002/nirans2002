@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <h2 align="center"> Github Status </h2>
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/nirans2002/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="nirans2002_gihub_table" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/nirans2002/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="nirans2002_gihub_table" />
 </p>
 <div display="flex" justify-content="center"> 
      <a href="">
