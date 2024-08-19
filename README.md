@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <!--- 👯 I’m looking to collaborate on -->
 
  <h2 align="center"> Github Status </h2>
-
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/nirans2002/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="nirans2002_gihub_table" />
+</p>
 <div display="flex" justify-content="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirans2002&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=50" />
